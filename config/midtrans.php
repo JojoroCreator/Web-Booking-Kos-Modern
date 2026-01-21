@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'server_key' => env('MIDTRANS_SERVER_KEY', 'Mid-server-XJ2sMS66zJpAgLCV4-FW0sf9'),
+    'server_key' => env('MIDTRANS_SERVER_KEY', 'MIDTRANS_SERVER_KEY'),
 
     'is_production' => env('MIDTRANS_IS_PRODUCTION', false),
 
